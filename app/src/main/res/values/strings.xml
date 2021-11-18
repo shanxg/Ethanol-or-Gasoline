@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ethanol or Gas Calculator</string>
+    <string name="text_fuel_your_car">Calculate the best option \n to fuel your car</string>
+    <string name="text_ethanol_hint">Ethanol Price - ex.: 1.50</string>
+    <string name="text_gas_hint">Gasoline Price - ex.: 2.50</string>
+    <string name="text_calculate">Calculate</string>
+    <string name="text_empty_ethan">Ethanol price is empty or not valid.</string>
+    <string name="text_empty_gas">Gasoline price is empty or not valid.</string>
+</resources>
